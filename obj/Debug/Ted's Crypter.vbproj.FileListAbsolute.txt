@@ -1,0 +1,10 @@
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\bin\Debug\Ted's Crypter.exe
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\bin\Debug\Ted's Crypter.pdb
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\bin\Debug\Ted's Crypter.xml
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\obj\Debug\Ted_s_Crypter.Form1.resources
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\obj\Debug\Ted_s_Crypter.Resources.resources
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\obj\Debug\Ted's Crypter.vbproj.GenerateResource.Cache
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\obj\Debug\Ted's Crypter.exe
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\obj\Debug\Ted's Crypter.xml
+C:\Users\Owner\Favorites\Documents\Visual Studio 2008\Projects\Ted's Crypter\Ted's Crypter\obj\Debug\Ted's Crypter.pdb
